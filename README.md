@@ -110,9 +110,9 @@ CACHE_TTL_JWT=900
 
 | Режим | Доступность | URL |
 |-------|-------------|-----|
-| **Development** | ✅ Доступна | `http://localhost:8000/api/docs` |
-| **Development** | ✅ Доступна | `http://localhost:8000/api/redoc` |
-| **Production** | ❌ Недоступна (404) | — |
+| **Development** |  Доступна | `http://localhost:8000/api/docs` |
+| **Development** |  Доступна | `http://localhost:8000/api/redoc` |
+| **Production** |  Недоступна (404) | — |
 
 ### Особенности документации:
 - Все эндпоинты сгруппированы по тегам: `Authentication`, `services`
